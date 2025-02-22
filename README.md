@@ -30,6 +30,6 @@ Um projeto simples para adicionar amigos a uma lista e sortear um nome aleatoria
 ## Autor ✒️
 - GitHub - [GitHub-Robson Ferreira](https://github.com/robsongeek)
 - Website - [Meu blog - Conheça e comparti-lhe](https://digitalcomputerprogramming.com/)
--Linkedin - [Linkedin](https://www.linkedin.com/in/robsonferreira-6b7b6848/)
+- Linkedin - [Linkedin](https://www.linkedin.com/in/robsonferreira-6b7b6848/)
 - Instagram - [Instagram](https://www.instagram.com/robsonferreira719/)
 - Curriculo - [Robson Ferreira](https://robsongeek.github.io/portfolio-curriculo/)
